@@ -1,5 +1,5 @@
 {
-    "release": {
+    "custom.release": {
         "sounds": [
             "custom/release"
         ]
